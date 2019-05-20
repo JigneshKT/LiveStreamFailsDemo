@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StreamLabs</string>
+    <string name="error_msg">Something went wrong</string>
+</resources>
